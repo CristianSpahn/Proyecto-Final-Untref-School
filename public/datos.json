@@ -1,0 +1,149 @@
+[ 
+    {
+        "categoria": "propiedad",
+        "tipo": "Casa",
+        "factor": 1.25
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "P.H.",
+        "factor": 1.05
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Depto. Edificio",
+        "factor": 1.02
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Casa Barrio Privado",
+        "factor": 1.19
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Oficina",
+        "factor": 2.39
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Local Comercial",
+        "factor": 1.41
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Depósito Logística",
+        "factor": 1.92
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Buenos Aires",
+        "factor": 2.55
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Catamarca",
+        "factor": 1.00
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Chaco",
+        "factor": 1.01
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Chubut",
+        "factor": 1.10
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Córdoba",
+        "factor": 1.45
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Corrientes",
+        "factor": 1.03
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Entre Ríos",
+        "factor": 1.07
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Formosa",
+        "factor": 1.02
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Jujuy",
+        "factor": 1.00
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "La Pampa",
+        "factor": 1.07
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "La Rioja",
+        "factor": 1.09
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Mendoza",
+        "factor": 1.32
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Misiones",
+        "factor": 1.22
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Neuquén",
+        "factor": 1.29
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Río Negro",
+        "factor": 1.01
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Salta",
+        "factor": 1.07
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "San Juan",
+        "factor": 1.14
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Santa Cruz",
+        "factor": 1.28
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Santa Fé",
+        "factor": 2.05
+    },
+    { 
+        "categoria": "ubicacion",
+        "tipo": "Santiago del Estero",
+        "factor": 1.02
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Tierra del Fuego",
+        "factor": 1.07
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Tucumán",
+        "factor": 1.08
+    }
+
+
+]
